@@ -1,0 +1,3 @@
+
+
+mvn archetype:generate -DgroupId=edu.jmmougan.neo4j -DartifactId=hello -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
